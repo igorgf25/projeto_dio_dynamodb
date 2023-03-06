@@ -1,0 +1,22 @@
+{
+  "Categoria": [
+    {
+      "nome_categoria": { "S": "Romance" },
+      "descricao": {
+        "S": "Romance é um gênero literário que trata de temas de amor e relacionamentos emocionais entre personagens"
+      }
+    },
+    {
+      "nome_categoria": { "S": "Biografia" },
+      "descricao": {
+        "S": "Biografia é um gênero literário que trata da vida de uma pessoa, escrita por outra pessoa"
+      }
+    },
+    {
+      "nome_categoria": { "S": "Ficção histórica" },
+      "descricao": {
+        "S": "Ficção histórica é um gênero literário que mistura fatos históricos e personagens fictícios"
+      }
+    }
+  ]
+}

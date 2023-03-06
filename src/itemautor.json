@@ -1,0 +1,19 @@
+{
+  "Autor": [
+    {
+      "nome_autor": { "S": "Harper Lee" },
+      "data_nascimento": { "S": "28/04/1926" },
+      "nacionalidade": { "S": "Estados Unidos" }
+    },
+    {
+      "nome_autor": { "S": "Michelle Obama" },
+      "data_nascimento": { "S": "17/01/1964" },
+      "nacionalidade": { "S": "Estados Unidos" }
+    },
+    {
+      "nome_autor": { "S": "Khaled Hosseini" },
+      "data_nascimento": { "S": "04/03/1965" },
+      "nacionalidade": { "S": "Afeganistão" }
+    }
+  ]
+}

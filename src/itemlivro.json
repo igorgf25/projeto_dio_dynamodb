@@ -1,0 +1,37 @@
+{
+  "Livro": [
+    {
+      "PutRequest": {
+        "Item": {
+          "isbn": { "S": "978-0061120084" },
+          "titulo": { "S": "To Kill a Mockingbird" },
+          "ano_publicacao": { "N": "1960" },
+          "categoria": { "S": "Romance" },
+          "autor": { "S": "Harper Lee" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "isbn": { "S": "978-0525534969" },
+          "titulo": { "S": "Becoming" },
+          "ano_publicacao": { "N": "2018" },
+          "categoria": { "S": "Biografia" },
+          "autor": { "S": "Michelle Obama" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "isbn": { "S": "978-1400031702" },
+          "titulo": { "S": "The Kite Runner" },
+          "ano_publicacao": { "N": "2003" },
+          "categoria": { "S": "Ficção histórica" },
+          "autor": { "S": "Khaled Hosseini" }
+        }
+      }
+    }
+  ]
+}
